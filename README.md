@@ -25,3 +25,4 @@ AI-powered product tools for discovery, personalization, and PM workflows — dr
 
 ---
 *PM who builds things. Currently exploring AI agents for product and recommendation systems.*
+
