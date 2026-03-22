@@ -1,7 +1,7 @@
 # Hi, I'm Rahul Khandelwal 👋 
 
 ## What I Build
-AI-powered product tools for discovery, personalization, and PM workflows — drawing on 10 years shipping at scale across OTT, EdTech, and analytics.
+AI-powered product tools for discovery, personalization, and PM workflows - drawing on 11 years shipping at scale across OTT, EdTech, and Analytics.
 
 ## What I'm Working On
 - 🔨 Building PM tools that automate the workflows I've spent 10 years doing manually
