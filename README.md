@@ -22,6 +22,7 @@ AI-powered product tools for discovery, personalization, and PM workflows - draw
 | [KitchenKing](https://github.com/Rahul-Khandelwal92/KitchenKing) | Your kitchen buddy app | TypeScript |
 | [SocietySync](https://github.com/Rahul-Khandelwal92/SocietySync) | Track resolution time for service providers and hold them accountable | TypeScript |
 | [Cuisine-Scout](https://github.com/Rahul-Khandelwal92/Cuisine-Scout) | Cuisine discovery and scouting app | TypeScript |
+| [Career-Compass](https://github.com/Rahul-Khandelwal92/Career-Compass) | Personalized GPS for professionals pivoting into new roles | TypeScript |
 
 ## Connect
 - 💼 [LinkedIn](https://linkedin.com/in/rahulkhandelwal-pm)
