@@ -11,7 +11,8 @@ AI-powered product tools for discovery, personalization, and PM workflows - draw
 ## Background
 - 🎯 Group PM at **JioHotstar** - led recommendations for 250M+ users, filed patent for client-side personalization at 60M concurrent users
 - 🚀 Co-founded **NotchUp** - scaled EdTech platform from 0 → $250K ARR across 10 countries
-- 🏆 Disney Inventor Award 2024 | IIT Delhi
+- 🏆 Disney Inventor Award 2024
+- Graduated from IIT Delhi 2010 - 2014
 
 ## Featured Projects
 
