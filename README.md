@@ -20,7 +20,7 @@ AI-powered product tools for discovery, personalization, and PM workflows - draw
 |---------|-------------|
 | [Nook](https://github.com/Rahul-Khandelwal92/Nook) | Online Dating App for Introverts |
 | [WordTakshiri-Game](https://github.com/Rahul-Khandelwal92/WordTakshiri-Game) | A Bollywood song meets word game to play with friends and family |
-| [KitchenKing](https://github.com/Rahul-Khandelwal92/KitchenKing) | Your kitchen buddy app |
+| [KitchenKing](https://github.com/Rahul-Khandelwal92/KitchenKing) | Your kitchen buddy app for busy couples |
 | [SocietySync](https://github.com/Rahul-Khandelwal92/SocietySync) | Track resolution time for service providers and hold them accountable |
 | [Cuisine-Scout](https://github.com/Rahul-Khandelwal92/Cuisine-Scout) | Cuisine discovery and scouting app |
 | [Career-Compass](https://github.com/Rahul-Khandelwal92/Career-Compass) | Personalized GPS for professionals pivoting into new roles |
