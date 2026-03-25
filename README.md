@@ -17,7 +17,11 @@ AI-powered product tools for discovery, personalization, and PM workflows - draw
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| Coming soon | | |
+| [Nook](https://github.com/Rahul-Khandelwal92/Nook) | Online Dating App for Introverts | TypeScript |
+| [WordTakshiri-Game](https://github.com/Rahul-Khandelwal92/WordTakshiri-Game) | A Bollywood song meets word game to play with friends and family | TypeScript |
+| [KitchenKing](https://github.com/Rahul-Khandelwal92/KitchenKing) | Your kitchen buddy app | TypeScript |
+| [SocietySync](https://github.com/Rahul-Khandelwal92/SocietySync) | Track resolution time for service providers and hold them accountable | TypeScript |
+| [Cuisine-Scout](https://github.com/Rahul-Khandelwal92/Cuisine-Scout) | Cuisine discovery and scouting app | TypeScript |
 
 ## Connect
 - 💼 [LinkedIn](https://linkedin.com/in/rahulkhandelwal-pm)
@@ -25,4 +29,3 @@ AI-powered product tools for discovery, personalization, and PM workflows - draw
 
 ---
 *PM who builds things. Currently exploring AI agents for product and recommendation systems.*
-
