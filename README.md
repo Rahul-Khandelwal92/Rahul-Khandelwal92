@@ -14,7 +14,7 @@ AI-powered product tools for discovery, personalization, and PM workflows - draw
 - 🏆 Disney Inventor Award 2024
 - Graduated from IIT Delhi 2010 - 2014
 
-## Featured Projects
+## Vibe Coded Projects
 
 | Project | What It Does |
 |---------|-------------|
