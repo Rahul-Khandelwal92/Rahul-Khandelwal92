@@ -4,7 +4,7 @@
 AI-powered product tools for discovery, personalization, and PM workflows - drawing on 11 years shipping at scale across OTT, EdTech, and Analytics.
 
 ## What I'm Working On
-- 🔨 Building PM tools that automate the workflows I've spent 12 years doing manually
+- 🔨 Building PM tools that automate the workflows I've spent 11 years doing manually
 - 📚 Exploring LLM-based recommendation and content discovery systems
 - 🤝 Open to connecting with PMs, AI founders, and anyone building in the recommendation/personalization space
 
